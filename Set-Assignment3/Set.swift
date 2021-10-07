@@ -6,7 +6,7 @@
 //
 
 import Foundation
-
+// Test the factor
 struct Set {
     var cards: [Card]
     var cardsOnScreen: [Card]
